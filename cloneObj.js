@@ -1,4 +1,4 @@
-export default cloneObj = (source) => {
+export default (source) => {
     function clone(obj) {
         if (typeof obj !== 'object' || obj === null) return obj;
         const _obj = obj.length >= 0 ? [] : {};

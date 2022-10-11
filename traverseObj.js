@@ -1,4 +1,4 @@
-export default traverseObj = (obj, func = () => {}) => {
+export default (obj, func = () => {}) => {
     const traverse = (obj, parent, func) => {
         if (obj) {
             func(obj, parent)

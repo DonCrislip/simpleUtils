@@ -1,6 +1,6 @@
 {
   "name": "@doncrislip/simpleutils",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A simple utility package for reusable functions",
   "main": "index.js",
   "type":"module",
