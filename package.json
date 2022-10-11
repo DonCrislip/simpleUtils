@@ -1,0 +1,19 @@
+{
+  "name": "simpleutils",
+  "version": "1.0.0",
+  "description": "A simple utility package for reusable functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonCrislip/simpleUtils.git"
+  },
+  "author": "Don Crislip",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DonCrislip/simpleUtils/issues"
+  },
+  "homepage": "https://github.com/DonCrislip/simpleUtils#readme"
+}
