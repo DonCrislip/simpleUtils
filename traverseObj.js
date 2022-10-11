@@ -1,4 +1,4 @@
-export default traverseObjForKeyVal = (obj, func = () => {}) => {
+export default traverseObj = (obj, func = () => {}) => {
     const traverse = (obj, parent, func) => {
         if (obj) {
             func(obj, parent)
