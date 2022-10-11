@@ -1,5 +1,5 @@
 {
-  "name": "simpleutils",
+  "name": "@doncrislip/simpleutils",
   "version": "1.0.0",
   "description": "A simple utility package for reusable functions",
   "main": "index.js",
